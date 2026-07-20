@@ -10,12 +10,8 @@
 - Hey its a responsive website using html , css, bootstrap [Rev car company](https://abhiub1.ccbp.tech/#)
 
 - Another responsive website using html, css, bootstrap [Clairo fanpage (with some of her songs)](https://abhishekub.ccbp.tech/)
-
-- 📝 I regularly write articles on [https://hashnode.com/@abhishekub](https://hashnode.com/@abhishekub)
-
+- 
 - 📫 How to reach me **ubabhishek@gmail.com**
-
-- ⚡ Fun fact **Love music and movies, truly breaking out of the NPC script there.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
